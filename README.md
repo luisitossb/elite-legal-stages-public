@@ -2,8 +2,7 @@
 ## TLDR: Hold down BOTH SHOULDER buttons then press UP on the DPAD to bring up the menu --> Enable / Disable stages at will!!!!!!
 ## Install tutorial
 
-- Drag the contents of the zip into the root of your SD card
-- OR, you can just drag the 2 .NRO files directly into your plugins folder
+- Just drag the 2 .NRO files directly into your plugins folder
 
 ## Dependency
 
